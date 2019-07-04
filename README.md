@@ -11,8 +11,4 @@ diodes
 License: GPLv2
 
 Todo : 
-debounce keys
-Keyboard.press()
-Keyboard.release() 
-and
-circuit schematic
+debounce keys , Keyboard.press() , Keyboard.release() and circuit schematic
