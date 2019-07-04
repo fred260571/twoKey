@@ -5,8 +5,7 @@ Allows Arduino micro to control 200 keys instead of 100 = (10*10)
 Can easily be modified for standard Arduino and Raspberry Pi
 
 bill of material
-resistance values are 2kOhm , 2.7kOhm , 5.6kOhm
-diodes
+resistance values are 2kOhm , 2.7kOhm , 5.6kOhm , diodes
 
 License: GPLv2
 
