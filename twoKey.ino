@@ -1,7 +1,7 @@
 /*
 
     twoKey.ino Key multiplication for Arduino : allows you to have two keys instead of one
-    Copyright (C) 2019  Frederic Phillipe Pouchal.  All rights reserved.
+    Copyright (C) 2019  Frederic Philippe Pouchal.  All rights reserved.
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
