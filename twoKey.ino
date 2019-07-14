@@ -25,7 +25,6 @@
 
 const int numCols = 10;
 const int numRows = 10;
-const int numKeys = 4;
 
 const int colPins[numCols] = {0, 1, 2, 3, 4, 5, 6, 7, 11, 13};
 const int rowPins[numRows] = {A0, A1, A2, A3, A4, A5, A8, A9, A10, A11};
