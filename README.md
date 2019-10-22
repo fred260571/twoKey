@@ -42,6 +42,8 @@ diode 1N4005
 
 2 pushbuttons
 
+Because 1 liter of beverage is spoiled on keyboards every year I added 1 diode 1N4005 on each column = digital pin 0, 1, 2, 3, 4, 5, 6, 7, 11, 13
+
 ![schema](/twokey.png)
 
 ![schema2](/breadboard.png)
