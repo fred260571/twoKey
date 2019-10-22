@@ -25,6 +25,8 @@ So I made a circuit breadboard to check if the delay was problematic and if my i
 
 conclusion : it is a success
 
+It is possible to use more than 3 pushbuttons but you may experience voltage problems while reading values due to electromagnetic pollution
+
 final code for the project is here :
 
 (https://github.com/fred260571/How-to-build-a-keyboard)
