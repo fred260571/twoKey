@@ -59,7 +59,7 @@ char getKey()
 
     for ( row = 0; row < numRows; row++)
     {
-      delay(1);
+      delay(1);  // delay in between reads for stability
       sensorValue = analogRead(rowPins[row]);
 
       key = 0;
