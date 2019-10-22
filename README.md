@@ -11,6 +11,9 @@ resistance 2.1kOhm , 2.7kOhm , 5.6kOhm
 
 diodes
 
+![schema](/twokey.png)
+
+
 License: GPLv2
 
 Todo : 
