@@ -7,11 +7,11 @@ Can easily be modified for standard Arduino and Raspberry Pi
 
 My friend wanted to make a USB keyboard with 112 keys and an Arduino micro and an IO expander (ECE1099).
 
-(http://touchelibre.fr/)
+http://touchelibre.fr/
 
 But neither of us are I2C specialists , therefore I had this idea
 
-Keyboards consist of columns and rows ( see (https://docs.qmk.fm/#/hand_wire) for deeper explanations )
+Keyboards consist of columns and rows ( see https://docs.qmk.fm/#/hand_wire for deeper explanations )
 
 You sequencialy power ON the columns of your keyboard  `digitalWrite(colPins[column], HIGH);`
 
@@ -31,7 +31,7 @@ It is possible to use more than 3 pushbuttons but you may experience voltage pro
 
 final code for the project is here :
 
-(https://github.com/fred260571/How-to-build-a-keyboard)
+https://github.com/fred260571/How-to-build-a-keyboard
 
 
 bill of material :
