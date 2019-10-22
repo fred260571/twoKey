@@ -7,7 +7,7 @@ Can easily be modified for standard Arduino and Raspberry Pi
 
 bill of material :
 
-resistance 2kOhm , 2.7kOhm , 5.6kOhm
+resistance 2.1kOhm , 2.7kOhm , 5.6kOhm
 
 diodes
 
