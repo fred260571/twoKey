@@ -17,7 +17,7 @@ then you digitally read the rows `digitalRead(rowPins[row]);` and the value 0/1 
 
 My idea is to replace each pushbutton by 2 pushbuttons and 2 resistances
 
-In order to know if a key is pressed you digitally read the rows and with the result you know if 0, 1, or 2 keys are pressed `analogRead(rowPins[row]);`
+In order to know if a key is pressed you analogically read the rows and with the result you know if 0, 1, or 2 keys are pressed `analogRead(rowPins[row]);`
 
 Problem we have 1 millisecond delay for stability for each analogRead therefore 100 millisecond (0.1 second) delay for the entire loop
 
@@ -42,7 +42,9 @@ diode 1N4005
 
 ![schema](/twokey.png)
 
-![schema2](https://camo.githubusercontent.com/87e06ff5c55ebb9498f5a3f7f232796a69259489/68747470733a2f2f7261776769746875622e636f6d2f426f756e692f41726475696e6f2d50696e6f75742f6d61737465722f41726475696e6f2532304d6963726f25323050696e6f75742e706e67)
+![schema2](/breadboard.png)
+
+![schema3](https://camo.githubusercontent.com/87e06ff5c55ebb9498f5a3f7f232796a69259489/68747470733a2f2f7261776769746875622e636f6d2f426f756e692f41726475696e6f2d50696e6f75742f6d61737465722f41726475696e6f2532304d6963726f25323050696e6f75742e706e67)
 
 
 License: GPLv2
