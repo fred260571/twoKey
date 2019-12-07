@@ -41,6 +41,12 @@ void setup() {
     digitalWrite(colPins[column], LOW);
   }
 
+  for (row = 0; row < numRows; row++)
+  {
+    pinMode(rowPins[row], INPUT);
+  }  
+    
+    
 }
 
 void loop() {
